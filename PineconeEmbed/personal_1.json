@@ -1,0 +1,63 @@
+{
+    "name": "Ayaka Tanaka",
+    "age": 27,
+    "gender": "Female",
+    "occupation": "Office Lady (OL)",
+    "appearance": {
+      "height": "160 cm",
+      "body_type": "slim",
+      "hair_color": "black",
+      "hair_style": "shoulder-length, straight",
+      "eye_color": "brown",
+      "features": "wears glasses, small beauty mark on left cheek"
+    },
+    "personality": {
+      "traits": ["diligent", "kind", "introverted", "organized"],
+      "strengths": ["detail-oriented", "empathetic", "reliable"],
+      "weaknesses": ["overly cautious", "perfectionist", "shy"]
+    },
+    "backstory": {
+      "family": "Parents and younger brother",
+      "childhood_experience": "Grew up in a supportive family, excelled in academics",
+      "significant_life_events": "Graduated from a prestigious university, landed first job at a reputable company",
+      "education": "Bachelor's degree in Business Administration",
+      "past_employment": "Interned at a marketing firm during university"
+    },
+    "values_beliefs": {
+      "important_values": ["family", "honesty", "personal growth"],
+      "philosophy": "Work hard and be kind to others",
+      "principles": ["Integrity in work", "Respect for others", "Continuous self-improvement"],
+      "social_issues": "Supports gender equality, environmental sustainability",
+      "respected_people": ["People who show resilience and compassion"]
+    },
+    "lifestyle": {
+      "daily_routine": {
+        "morning": "Wakes up at 6:30 AM, exercises, has breakfast, commutes to work",
+        "workday": "Works from 9:00 AM to 6:00 PM, attends meetings, completes tasks",
+        "evening": "Cooks dinner, reads a book, relaxes with a bath, goes to bed by 11:00 PM"
+      },
+      "hobbies_interests": ["reading novels", "yoga", "traveling", "photography"],
+      "social_circle": ["close friends from university", "colleagues from work"],
+      "weekend_activities": ["visits family", "explores new cafes", "attends yoga classes"],
+      "favorite_foods_drinks": ["sushi", "ramen", "green tea"],
+      "preferred_music_movies": ["pop music", "romantic comedies"],
+      "living_situation": "Lives alone in a small apartment in Tokyo",
+      "dream_living_environment": "A cozy apartment with a view of the city, close to parks and cafes"
+    },
+    "skills": {
+      "talents": ["excellent organizational skills", "fluent in English"],
+      "learned_skills": ["data analysis", "project management"],
+      "sports_activities": ["yoga", "jogging"]
+    },
+    "inner_conflicts": {
+      "traumas_fears": ["fear of failure", "anxiety about public speaking"],
+      "internal_conflicts": ["struggles with work-life balance", "feels pressure to meet high expectations"],
+      "setbacks_failures": ["missed promotion opportunity", "difficulty in forming close friendships"]
+    },
+    "relationships": {
+      "family_relationships": ["close with parents, supportive of younger brother"],
+      "romantic_relationships": ["currently single, open to finding a partner"],
+      "friendships": ["few close friends, values quality over quantity"],
+      "rivals_enemies": ["none specific, occasional workplace competition"]
+    }
+  }
